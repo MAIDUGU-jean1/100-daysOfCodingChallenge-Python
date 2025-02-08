@@ -10,4 +10,4 @@ print(BMI)
 print(New_BMI)
 
 
-
+print(round(8/3,2))
